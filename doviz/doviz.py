@@ -40,38 +40,6 @@ class myApp(QtWidgets.QMainWindow):
         else:
             self.ui.lbl_uyari.setText("Check your enthernet connection or Make sure you entered the currency name correctly.")
 
-
-'''url = "https://api.apilayer.com/exchangerates_data/latest?base=" #"https://api.apilayer.com/exchangerates_data/convert?to={to}&from={from}&amount={amount}"
-bozulan_doviz = input("bozulan döviz türü: ")
-alinan_doviz = input("alınan döviz türü: ")
-miktar = int(input(f"Ne kadar {bozulan_doviz} bozdurmak istiyorsunuz: "))
-
-#XEggDogcz0897NJIzcGBLBRW8e2V1jQN
-#0c1a23fb2b1fb3093b24d1d5920f26d0
-
-payload = {}
-headers= {
-  "apikey": "XEggDogcz0897NJIzcGBLBRW8e2V1jQN"
-}
-
-#key = "0c1a23fb2b1fb3093b24d1d5920f26d0"
-
-#url2 = "https://api.apilayer.com/exchangerates_data/convert?to="+alinan_doviz+"from="+bozulan_doviz+"amount="+str(miktar) #+"?access_key=" + key
-#response = requests.request("GET",url2,headers=headers,data=payload)
-#status_code = response.status_code
-#result = response.text
-#print(result)
-
-
-response = requests.request("GET", url+bozulan_doviz, headers=headers, data = payload)
-status_code = response.status_code
-result = response.text
-print(result)
-result = json.loads(result)
-print("1 {0} = {1} {2}".format(bozulan_doviz,result["rates"][alinan_doviz], alinan_doviz))
-print("{0} {1} = {2} {3}".format(miktar,bozulan_doviz,miktar * result["rates"][alinan_doviz],alinan_doviz))'''
-
-
 def app():
     app = QtWidgets.QApplication(sys.argv)
     win = myApp()
