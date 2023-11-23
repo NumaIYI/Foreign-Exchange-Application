@@ -26,11 +26,13 @@
 
 # Images from the project
 # 1 
-![doviz1](https://github.com/NumaIYI/Foreign-Exchange-Application/assets/128406291/edb678c7-8881-4204-9f03-50334fa0d8c4)
+![doviz1](https://github.com/NumaIYI/Foreign-Exchange-Application/assets/128406291/0e8563a1-1d50-4557-af1f-1489e56f7b64)
+
 # 2 
-![doviz2](https://github.com/NumaIYI/Foreign-Exchange-Application/assets/128406291/4d000827-3acc-4fa9-99c8-9e9d33bdc237)
+![doviz2](https://github.com/NumaIYI/Foreign-Exchange-Application/assets/128406291/80ff687f-4ba2-4d6d-9c5b-ae8d723ee69b)
+
 # 3 
-![doviz3](https://github.com/NumaIYI/Foreign-Exchange-Application/assets/128406291/3d0f2cea-895a-484d-88c2-55e8aee95c6a)
+![doviz3](https://github.com/NumaIYI/Foreign-Exchange-Application/assets/128406291/b10ec3e1-90a1-4c4a-8d79-3cf53ef8b1d1)
 
 ----
 ## Function Table
